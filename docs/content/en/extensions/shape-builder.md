@@ -47,7 +47,7 @@ The following coordinate string defines a plus (`+`) icon shape:
 
 Meshery ships with predefined geometric shapes available to all components. Shape Builder extends this by enabling fully custom polygons. For the full list of built-in shapes see:
 
-➡ [Identifying Meshery Components](/guides/configuration-management/identifying-components/)
+➡ [Identifying Meshery Components](https://docs.meshery.io/guides/configuration-management/identifying-components/)
 
 ## Discussion Forum
 
